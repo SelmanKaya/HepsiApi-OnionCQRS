@@ -41,5 +41,4 @@ namespace HepsiApi.Persistance.Configurations
         }
     }
     
-    }
 }
